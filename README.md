@@ -53,5 +53,7 @@ The **ALTA Fundamentals 111 (Pre-APEX)** curriculum is engineered to bridge the 
 ALTA-Fundamentals-111/
 │
 ├── problem1.c                  # Problem 001: Age Estimate From Days Lived
+├── problem2.c                  # Problem 002: Implement swap of two integers
+├── problem3.c                  # Problem 003: Implement boolean input handling
 └── README.md                   # Repository documentation and progress tracker
 # Subsequent solutions added sequentially
