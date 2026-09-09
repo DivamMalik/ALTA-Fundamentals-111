@@ -57,5 +57,6 @@ ALTA-Fundamentals-111/
 ├── problem3.c                  # Problem 003: Implement boolean input handling
 ├── problem4.c                  # Problem 004: Final price after discount and tax calculation
 ├── problem5.c                  # Problem 005: Balance check for withdrawal amount
+├── problem6.c                  # Problem 006: Program to find greatest integer from 3 inputs
 └── README.md                   # Repository documentation and progress tracker
 # Subsequent solutions added sequentially
