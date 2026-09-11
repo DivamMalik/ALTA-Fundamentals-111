@@ -59,5 +59,6 @@ ALTA-Fundamentals-111/
 ├── problem5.c                  # Problem 005: Balance check for withdrawal amount
 ├── problem6.c                  # Problem 006: Program to find greatest integer from 3 inputs
 ├── problem7.c                  # Problem 007: Check whether a given year is a leap year
+├── problem8.c                  # Problem 008: Check whether the given number is divisible by 3 and 5
 └── README.md                   # Repository documentation and progress tracker
 # Subsequent solutions added sequentially
