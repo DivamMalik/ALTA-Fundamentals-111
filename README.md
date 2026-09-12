@@ -60,5 +60,6 @@ ALTA-Fundamentals-111/
 ├── problem6.c                  # Problem 006: Program to find greatest integer from 3 inputs
 ├── problem7.c                  # Problem 007: Check whether a given year is a leap year
 ├── problem8.c                  # Problem 008: Check whether the given number is divisible by 3 and 5
+├── problem9.c                  # Problem 009: Implement BMI calculation and classification.
 └── README.md                   # Repository documentation and progress tracker
 # Subsequent solutions added sequentially
