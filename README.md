@@ -61,5 +61,7 @@ ALTA-Fundamentals-111/
 ├── problem7.c                  # Problem 007: Check whether a given year is a leap year
 ├── problem8.c                  # Problem 008: Check whether the given number is divisible by 3 and 5
 ├── problem9.c                  # Problem 009: Implement BMI calculation and classification.
+├── problem10.c                 # Problem 0010: Validate a Calendar Date.
+├── problem11.c                 # Problem 0011: Simple Calculator Using Switch Case.
 └── README.md                   # Repository documentation and progress tracker
 # Subsequent solutions added sequentially
