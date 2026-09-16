@@ -64,5 +64,6 @@ ALTA-Fundamentals-111/
 ├── problem10.c                 # Problem 010: Validate a Calendar Date.
 ├── problem11.c                 # Problem 011: Simple Calculator Using Switch Case.
 ├── problem12.c                 # Problem 012: Identifying season from months.
+├── problem13.c                 # Problem 013: Printing all number till N.
 └── README.md                   # Repository documentation and progress tracker
 # Subsequent solutions added sequentially
