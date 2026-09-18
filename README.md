@@ -67,5 +67,6 @@ ALTA-Fundamentals-111/
 ├── problem13.c                 # Problem 013: Printing all number from 1 to N.
 ├── problem14.c                 # Problem 014: Printing all number from N to 1.
 ├── problem15.c                 # Problem 015: Check if the number is prime or not.
+├── problem16.c                 # Problem 016: check whether a number reads the same forwards and backwards using a loop.
 └── README.md                   # Repository documentation and progress tracker
 # Subsequent solutions added sequentially
