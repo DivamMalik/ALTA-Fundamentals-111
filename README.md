@@ -68,5 +68,6 @@ ALTA-Fundamentals-111/
 ├── problem14.c                 # Problem 014: Printing all number from N to 1.
 ├── problem15.c                 # Problem 015: Check if the number is prime or not.
 ├── problem16.c                 # Problem 016: check whether a number reads the same forwards and backwards using a loop.
+├── problem17.c                 # Problem 017: Printing the first number the fabonacci series till N.
 └── README.md                   # Repository documentation and progress tracker
 # Subsequent solutions added sequentially
