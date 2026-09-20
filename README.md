@@ -71,5 +71,6 @@ ALTA-Fundamentals-111/
 ├── problem17.c                 # Problem 017: Printing the first number the fabonacci series till N.
 ├── problem18.c                 # Problem 018: Looping until the number is divisible by 7.
 ├── problem19.c                 # Problem 019: Implement number printing with multiples of 3 skipped
+├── problem20.c                 # Problem 020: Implement Fizz Buzz program in C.
 └── README.md                   # Repository documentation and progress tracker
 # Subsequent solutions added sequentially
