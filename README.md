@@ -4,7 +4,7 @@ ALTA Fundamentals 111 - DSA Sheet (Pre-APEX) - All the codes i used to solve my 
 
 ![Language](https://img.shields.io/badge/Language-C-00599C?logo=c&logoColor=white)
 ![Problems](https://img.shields.io/badge/Total%20Problems-111-orange)
-![Progress](https://img.shields.io/badge/Progress-17%20%2F%20111-brightgreen)
+![Progress](https://img.shields.io/badge/Progress-18%20%2F%20111-brightgreen)
 ![Curriculum](https://img.shields.io/badge/Track-Pre--APEX-blueviolet)
 
 A structured collection of low-level C implementations tackling the **ALTA Fundamentals 111** roadmap. This repository documents a continuous progression from core computational logic and procedural programming directly into fundamental Data Structures and Algorithms.
@@ -69,5 +69,6 @@ ALTA-Fundamentals-111/
 ├── problem15.c                 # Problem 015: Check if the number is prime or not.
 ├── problem16.c                 # Problem 016: check whether a number reads the same forwards and backwards using a loop.
 ├── problem17.c                 # Problem 017: Printing the first number the fabonacci series till N.
+├── problem18.c                 # Problem 018: Looping until the number is divisible by 7.
 └── README.md                   # Repository documentation and progress tracker
 # Subsequent solutions added sequentially
