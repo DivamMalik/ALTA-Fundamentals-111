@@ -4,7 +4,7 @@ ALTA Fundamentals 111 - DSA Sheet (Pre-APEX) - All the codes i used to solve my 
 
 ![Language](https://img.shields.io/badge/Language-C-00599C?logo=c&logoColor=white)
 ![Problems](https://img.shields.io/badge/Total%20Problems-111-orange)
-![Progress](https://img.shields.io/badge/Progress-20%20%2F%20111-brightgreen)
+![Progress](https://img.shields.io/badge/Progress-21%20%2F%20111-brightgreen)
 ![Curriculum](https://img.shields.io/badge/Track-Pre--APEX-blueviolet)
 
 A structured collection of low-level C implementations tackling the **ALTA Fundamentals 111** roadmap. This repository documents a continuous progression from core computational logic and procedural programming directly into fundamental Data Structures and Algorithms.
@@ -72,5 +72,6 @@ ALTA-Fundamentals-111/
 ├── problem18.c                 # Problem 018: Looping until the number is divisible by 7.
 ├── problem19.c                 # Problem 019: Implement number printing with multiples of 3 skipped
 ├── problem20.c                 # Problem 020: Implement Fizz Buzz program in C.
+├── problem21.c                 # Problem 021: Function Overloading.
 └── README.md                   # Repository documentation and progress tracker
 # Subsequent solutions added sequentially
