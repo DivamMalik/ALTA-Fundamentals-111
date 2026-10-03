@@ -4,7 +4,7 @@ ALTA Fundamentals 111 - DSA Sheet (Pre-APEX) - All the codes i used to solve my 
 
 ![Language](https://img.shields.io/badge/Language-C-00599C?logo=c&logoColor=white)
 ![Problems](https://img.shields.io/badge/Total%20Problems-111-orange)
-![Progress](https://img.shields.io/badge/Progress-28%20%2F%20111-brightgreen)
+![Progress](https://img.shields.io/badge/Progress-29%20%2F%20111-brightgreen)
 ![Curriculum](https://img.shields.io/badge/Track-Pre--APEX-blueviolet)
 
 A structured collection of low-level C implementations tackling the **ALTA Fundamentals 111** roadmap. This repository documents a continuous progression from core computational logic and procedural programming directly into fundamental Data Structures and Algorithms.
@@ -80,5 +80,6 @@ ALTA-Fundamentals-111/
 ├── problem26.c                 # Problem 026: Implement array input and update functionality
 ├── problem27.c                 # Problem 027: Add array initialization and printing.
 ├── problem28.c                 # Problem 028: Add Student struct and input/output functionality
+├── problem29.c                 # Problem 029: Implement distance calculator for two points
 └── README.md                   # Repository documentation and progress tracker
 # Subsequent solutions added sequentially
