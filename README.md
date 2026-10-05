@@ -83,5 +83,6 @@ ALTA-Fundamentals-111/
 ├── problem29.c                 # Problem 029: Implement distance calculator for two points
 ├── problem30.c                 # Problem 030: Add basic linked list implementation in C.
 ├── problem31.c                 # Problem 031: Implement program to find maximum of three numbers
+├── problem32.c                 # Problem 032: Implement logic to find the second largest number in an array of six integers.
 └── README.md                   # Repository documentation and progress tracker
 # Subsequent solutions added sequentially
