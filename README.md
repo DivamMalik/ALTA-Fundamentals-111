@@ -4,7 +4,7 @@ ALTA Fundamentals 111 - DSA Sheet (Pre-APEX) - All the codes i used to solve my 
 
 ![Language](https://img.shields.io/badge/Language-C-00599C?logo=c&logoColor=white)
 ![Problems](https://img.shields.io/badge/Total%20Problems-111-orange)
-![Progress](https://img.shields.io/badge/Progress-32%20%2F%20111-brightgreen)
+![Progress](https://img.shields.io/badge/Progress-33%20%2F%20111-brightgreen)
 ![Curriculum](https://img.shields.io/badge/Track-Pre--APEX-blueviolet)
 
 A structured collection of low-level C implementations tackling the **ALTA Fundamentals 111** roadmap. This repository documents a continuous progression from core computational logic and procedural programming directly into fundamental Data Structures and Algorithms.
@@ -84,5 +84,6 @@ ALTA-Fundamentals-111/
 ├── problem30.c                 # Problem 030: Add basic linked list implementation in C.
 ├── problem31.c                 # Problem 031: Implement program to find maximum of three numbers
 ├── problem32.c                 # Problem 032: Implement logic to find the second largest number in an array of six integers.
+├── problem33.c                 # Problem 033: Check whether it is sorted in non-decreasing order.
 └── README.md                   # Repository documentation and progress tracker
 # Subsequent solutions added sequentially
