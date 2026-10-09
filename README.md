@@ -87,5 +87,6 @@ ALTA-Fundamentals-111/
 ├── problem33.c                 # Problem 033: Check whether it is sorted in non-decreasing order.
 ├── problem34.c                 # Problem 034: integer d, rotate the array to the left by d positions.
 ├── problem35.c                 # Problem 035: Fix printf format for variable 'd'.
+├── problem36.c                 # Problem 036: Implement a program to count max consecutive 1s in an array.
 └── README.md                   # Repository documentation and progress tracker
 # Subsequent solutions added sequentially
