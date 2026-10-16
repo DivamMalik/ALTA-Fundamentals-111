@@ -92,6 +92,7 @@ ALTA-Fundamentals-111/
 ├── problem38.c                 # Problem 038: Added a program to compare two arrays and print the index of the first matching element.
 ├── problem39.c                 # Problem 039: Implement merging of two integer arrays and print the result.
 ├── problem40.c                 # Problem 040: Implement a program that squares input numbers and sorts them.
+├── problem40.c                 # Problem 040: Reverse the string.
 ├── problem42.c                 # Problem 042: Implement palindrome check for a 5-character string.
 └── README.md                   # Repository documentation and progress tracker
 # Subsequent solutions added sequentially
