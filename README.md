@@ -95,5 +95,6 @@ ALTA-Fundamentals-111/
 ├── problem40.c                 # Problem 040: Reverse the string.
 ├── problem42.c                 # Problem 042: Implement palindrome check for a 5-character string.
 ├── problem43.c                 # Problem 043: Counts the number of vowels, consonants, digits, and spaces in a given input string.
+├── problem44.c                 # Problem 044: Correct function closure and formatting
 └── README.md                   # Repository documentation and progress tracker
 # Subsequent solutions added sequentially
