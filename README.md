@@ -97,5 +97,6 @@ ALTA-Fundamentals-111/
 ├── problem43.c                 # Problem 043: Counts the number of vowels, consonants, digits, and spaces in a given input string.
 ├── problem44.c                 # Problem 044: Correct function closure and formatting.
 ├── problem45.c                 # Problem 045: Implement string rotation check.
+├── problem46.c                 # Problem 046: Implement a program to find and print the first non-repeating character in a string.
 └── README.md                   # Repository documentation and progress tracker
 # Subsequent solutions added sequentially
