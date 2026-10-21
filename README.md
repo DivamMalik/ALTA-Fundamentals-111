@@ -4,7 +4,7 @@ ALTA Fundamentals 111 - DSA Sheet (Pre-APEX) - All the codes i used to solve my 
 
 ![Language](https://img.shields.io/badge/Language-C-00599C?logo=c&logoColor=white)
 ![Problems](https://img.shields.io/badge/Total%20Problems-111-orange)
-![Progress](https://img.shields.io/badge/Progress-46%20%2F%20111-brightgreen)
+![Progress](https://img.shields.io/badge/Progress-47%20%2F%20111-brightgreen)
 ![Curriculum](https://img.shields.io/badge/Track-Pre--APEX-blueviolet)
 
 A structured collection of low-level C implementations tackling the **ALTA Fundamentals 111** roadmap. This repository documents a continuous progression from core computational logic and procedural programming directly into fundamental Data Structures and Algorithms.
@@ -98,5 +98,6 @@ ALTA-Fundamentals-111/
 ├── problem44.c                 # Problem 044: Correct function closure and formatting.
 ├── problem45.c                 # Problem 045: Implement string rotation check.
 ├── problem46.c                 # Problem 046: Implement a program to find and print the first non-repeating character in a string.
+├── problem47.c                 # Problem 047: Implement character removal from string.
 └── README.md                   # Repository documentation and progress tracker
 # Subsequent solutions added sequentially
