@@ -100,7 +100,7 @@ ALTA-Fundamentals-111/
 ├── problem46.c                 # Problem 046: Implement a program to find and print the first non-repeating character in a string.
 ├── problem47.c                 # Problem 047: Implement character removal from string.
 ├── problem48.c                 # Problem 048: Check if all characters in the input string are distinct and print the result.
-├── problem49.c                 # Problem 049:
+├── problem49.c                 # Problem 049: Add recursive function to print numbers
 ├── problem50.c                 # Problem 050: 
 └── README.md                   # Repository documentation and progress tracker
 # Subsequent solutions added sequentially
