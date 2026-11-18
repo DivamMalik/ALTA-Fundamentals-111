@@ -102,5 +102,28 @@ ALTA-Fundamentals-111/
 ├── problem48.c                 # Problem 048: Check if all characters in the input string are distinct and print the result.
 ├── problem49.c                 # Problem 049: Add recursive function to print numbers
 ├── problem50.c                 # Problem 050: Remove unnecessary whitespace and fix formatting
+├── problem51.c                 # Problem 051: Return the Nth Fibonacci number using plain recursion or memoization.
+├── problem52.c                 # Problem 052: Find the sum of digits of a number using recursion.
+├── problem53.c                 # Problem 053: Palindrome check using recursive shrinking pointers.
+├── problem54.c                 # Problem 054: Compute base^exponent using plain recursive multiplication (exponentiation).
+├── problem55.c                 # Problem 055: Rat in a Maze pathfinding using backtracking.
+├── problem56.c                 # Problem 056: Linear search for target index.
+├── problem57.c                 # Problem 057: Bubble Sort adjacent elements.
+├── problem58.c                 # Problem 058: Selection Sort minimum placement.
+├── problem59.c                 # Problem 059: Insertion Sort positional insertion.
+├── problem60.c                 # Problem 060: Merge Sort divide-and-conquer.
+├── problem61.c                 # Problem 061: Quick Sort pivot partitioning.
+├── problem62.c                 # Problem 062: Binary Search in logarithmic time.
+├── problem63.c                 # Problem 063: Lower bound index via binary search.
+├── problem64.c                 # Problem 064: Upper bound index via binary search.
+├── problem65.c                 # Problem 065: First and last occurrence via binary search.
+├── problem66.c                 # Problem 066: Search in a rotated sorted array.
+├── problem67.c                 # Problem 067: Minimum element in a rotated sorted array.
+├── problem68.c                 # Problem 068: Peak element index finder.
+├── problem69.c                 # Problem 069: Square root via binary search.
+├── problem70.c                 # Problem 070: Nth root integer calculation via binary search.
+├── problem71.c                 # Problem 071: Minimum shipping capacity within D days.
+├── problem72.c                 # Problem 072: Book allocation problem to minimize maximum pages.
+├── problem73.c                 # Problem 073: Split array largest sum minimization.
 └── README.md                   # Repository documentation and progress tracker
 # Subsequent solutions added sequentially
